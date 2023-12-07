@@ -1,7 +1,6 @@
-// Header.js
 import React from "react";
-import { useNavigate } from "react-router-dom"; // Fix the import statement
-import "./Header.css";
+import { useNavigate } from "react-router-dom";
+import "./App.css";
 
 const Header = () => {
   const navigate = useNavigate();

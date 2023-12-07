@@ -1,7 +1,5 @@
-
-
 import React from "react";
-import "./Projects.css";
+import "./App.css";
 
 const projectsData = [
   {

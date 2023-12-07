@@ -1,9 +1,8 @@
 // Home.js
 
 import React from "react";
-import "./Home.css";
-import profilePic from "./me1.jpg"; // Replace with the path to your profile picture
-
+import "./App.css";
+import profilePic from "./me1.jpg";
 const Home = () => {
   return (
     <main className="main">
@@ -12,7 +11,6 @@ const Home = () => {
       </div>
       <div className="content">
         <h2>Welcome to My Portfolio</h2>
-        {/* Add more content here */}
         <div className="content">
           <p className="introduction">
             Hello, I'm siddharth poshala .<br></br> I'm a student at Vardhaman
